@@ -1,0 +1,1 @@
+Redanian_Foot_Soldier 1 0 Kaedweni_Siege_Expert 1 2 Poor_F-king_Infantry 1 0 Yarpen_Zigrin 2 2 Blue_Stripes_Commando 4 0 Sheldon_Skaggs 4 1 Sabrina_Glevissig 4 1 Crinfrid_Reavers_Dragon_Hunter 5 1 Síle_de_Tansarville 5 1 Keira_Metz 5 1 Siegfried_of_Denesle 5 0 Ves 5 0 Siege_Tower 6 2 Ballista 6 2 Trebuchet 6 2 Dethmold 6 1 Catapult 8 2
