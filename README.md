@@ -1,4 +1,4 @@
-# C++ Gwent Game Simulation
+# C++ Gwent Game
 
 ## Overview
 This project is a C++ console-based simulation of the popular card game, Gwent. It is a two-player, turn-based game where players strategically place cards onto a battlefield to outscore their opponent and deplete their life points. 
