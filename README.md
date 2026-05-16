@@ -26,8 +26,3 @@ The game is built heavily on Object-Oriented Programming principles, featuring f
 5. The round loser loses 1 life point. Used cards are replaced with random ones from the deck, and the board resets.
 6. The first player to reach 0 life points loses the match!
 
-## Installation & Execution
-*(Note: Add your specific compilation instructions here, for example:)*
-```bash
-g++ main.cpp -o gwent
-./gwent
